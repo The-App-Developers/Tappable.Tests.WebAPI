@@ -10,8 +10,8 @@ For reference, the gross amount is calculated as follows:
 
 - Use async/await as you see fit
 - An NUnit test project has been created to perform unit testing. If you'd prefer to use another framework that's perfectly acceptable, but please ensure it's freely available
-- Successful sesponses to all endpoints should return data in JSON format
-- Please DO NOT fork this project on Github, as we want to be sure candidates' test submissions are original.
+- Successful responses to all endpoints should return data in JSON format
+- Please DO NOT fork this project on Github, as we want to be sure candidates' test submissions are original
 
 ## Task requirements
 
